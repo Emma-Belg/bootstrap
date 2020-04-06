@@ -1,5 +1,5 @@
 # bootstrap
-Our first bootstrap css 2nd December
+Our first bootstrap css 2nd December, this assingment ca be found [here](https://github.com/becodeorg/atw-giertz-2-17/tree/master/1.The-Fields/4.HTML-CSS/3.CSS-Frameworks).
 
 Bootstrap is a CSS framework (basically a heap of other people's code bundled together).
 Technically you can use bootstrap without editing any CSS, you simply need to lable your elements correctly so that the right ones are 'activated' from the attached bootstrap (css) that has already been written for us.
